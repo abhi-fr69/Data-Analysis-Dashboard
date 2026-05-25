@@ -15,4 +15,4 @@ The reliance Store wants to create an annual sales report for 2025. So that, the
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction 
+- Dashboard Interaction <a href="https://github.com/abhi-fr69/Data-Analysis-Dashboard/blob/main/Screenshot%202026-05-25%20154624.png">View Dashboard</a>
